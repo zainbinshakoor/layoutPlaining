@@ -8,4 +8,20 @@
 #mainContent{
     background-color: lightblue;
     height: 400px;
+    
+}
+#navigation{
+    width: 25%;
+    background-color: lightcoral;
+    height: 400px;
+    padding: 10px;
+
+}
+.navItem{
+    background-color: lightgoldenrodyellow;
+    height: 50px;
+    margin: 10px;
+    font-size: 25px;
+    padding: 25px 0px 0px 20px  ;
+   
 }
